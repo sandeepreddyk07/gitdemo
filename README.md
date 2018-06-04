@@ -1,3 +1,4 @@
 # gitdemo
 
-## 1 This is a git Project to test jenkins for demo
+
+This is a sample git Project to integrate and test with jenkins for CICD 
